@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/flipping-card-UI-HTML-CSS.git
+git clone https://github.com/sukhmeetoberoi/Flipping-card-UI-HTML-CSS
 Navigate to the project directory:
 
 bash
