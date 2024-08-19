@@ -11,6 +11,8 @@ Customizable: The HTML and CSS code is easy to modify, allowing you to customize
 Cross-Browser Compatibility: Works on all modern web browsers.
 
 Screenshots
+![Screenshot 2024-08-20 023430](https://github.com/user-attachments/assets/b0c93180-f034-47f7-9507-c763abeb8c62)
+
 ![Screenshot 2024-08-20 023440](https://github.com/user-attachments/assets/60538d13-eada-46e2-994f-978acd057fb3)
 
 Getting Started
